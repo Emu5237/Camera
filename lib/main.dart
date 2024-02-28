@@ -582,7 +582,7 @@ class TakePictureScreenState extends State<TakePictureScreen> {
                 color: Colors.white.withOpacity(0.7)),
           ),
           Positioned(
-            bottom: 20.0,
+            bottom: 0.0,
             width: MediaQuery.of(context).size.width,
             child: Container(
               width: MediaQuery.of(context).size.width,
